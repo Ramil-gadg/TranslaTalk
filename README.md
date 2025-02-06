@@ -1,0 +1,2 @@
+# TranslaTalk
+TranslaTalk privacy-policy
